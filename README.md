@@ -2,7 +2,7 @@
 I'm Jordyn
 
 - 🔭 I’m currently a student at Deakin University, studying a bachelor of IT majoring in Application Development
-- 🌱 I’m currently learning Vue, more C#
+- 🌱 I’m currently learning Vue, more C# and continuing to expand my Rust knowledge!
 -  ⚡ Languages: Java, Rust, C#, PHP, SQL, JS
 
 🚀 Some of my main projects:
